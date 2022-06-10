@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## "Hello World!" eu sou Felipe Tavares, seja bem vindo!
+### "Hello World!"  Sou Felipe Tavares, seja bem vindo!
+⚡ Atualmete trabalho com inovação tecnológica no KelvingLab, estou cursando Sistemas de Informção e sou cadete da 42 Rio.
+##
 <div align="center">
   <a href="https://github.com/felipefetec">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipefetec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
