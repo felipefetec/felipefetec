@@ -40,6 +40,15 @@ Here are some ideas to get you started:
   <a href = "mailto:felipe@kelvinglab.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-tavares-a39208128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://github.com/felipefetec">
 
+## Visitas no pefil - Atividade
+
+<!-- visitors count  -->
+
+<p>   
+  <img src="https://profile-counter.glitch.me/felipefetec/count.svg" />  
+</p>
+  
+<!-- github workflow  -->
    ![Snake animation](https://github.com/felipefetec/felipefetec/blob/output/github-contribution-grid-snake.svg) 
   </a>
 </div>
