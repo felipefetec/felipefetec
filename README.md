@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 ### "Hello World!"  Sou Felipe Tavares, seja bem vindo!
 ⚡ Trabalhando com inovações tecnológicas no Kelving Lab, cursando Sistemas de Informção e sou cadete na 42 Rio.
 ##
+
+<!-- Quadro status  -->
+
 <div align="center">
   <a href="https://github.com/felipefetec">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipefetec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefetec&hide=processing,scss,less&layout=compact&langs_count=6&theme=tokyonight"/> </a></br>
 </div>
+
+<!-- Skills  -->
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg">
@@ -34,6 +39,9 @@ Here are some ideas to get you started:
 </div>
 
  ##
+
+ <!-- Redes sociais  --> 
+
 <div> <!--
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href="https://www.youtube.com/channel/UC4WHMvGDHOM_f9KHU4gBOZg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -42,7 +50,7 @@ Here are some ideas to get you started:
 
 ## Visitas no pefil - Atividade
 
-<!-- visitors count  -->
+<!-- Contador de visitas  --> 
 
 <p>   
   <img src="https://profile-counter.glitch.me/felipefetec/count.svg" />  
