@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
  ##
 
- <!-- Redes sociais  -->
+ <!-- Redes sociais  --> 
 
 <div> <!--
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ## Visitas no pefil - Atividade
 
-<!-- Contador de visitas  -->
+<!-- Contador de visitas  --> 
 
 <p>   
   <img src="https://profile-counter.glitch.me/felipefetec/count.svg" />  
