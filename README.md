@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### "Hello World!"  Sou Felipe Tavares, seja bem vindo!
-⚡ Trabalhando com inovações tecnológicas no Kelving Lab, cursando Sistemas de Informção e sou cadete na 42 Rio.
+⚡ Trabalhando com inovações tecnológicas no Kelving Lab, cursando Sistemas de Informção.
 ##
 
 <!-- Quadro status  -->
