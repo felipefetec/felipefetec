@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### "Hello World!"  Sou Felipe Tavares, seja bem vindo!
-⚡ Trabalhando com inovações tecnológicas no Kelving Lab, cursando Sistemas de Informção.
+⚡ Trabalhando com inovações tecnológicas no Kelving Lab, cursando Sistemas de Informação.
 ##
 
 <!-- Quadro status  -->
