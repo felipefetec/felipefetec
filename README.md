@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href="https://www.youtube.com/channel/UC4WHMvGDHOM_f9KHU4gBOZg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><span> ‎  </span>
   <a href = "mailto:felipefetec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <span> ‎  </span>
-  <a href="https://www.linkedin.com/in/felipe-tavares-a39208128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://github.com/felipefetec">
+  <a href="https://www.linkedin.com/in/felipe-tavares-a39208128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 ## Visitas no pefil - Atividade
 
@@ -57,6 +57,11 @@ Here are some ideas to get you started:
 </p>
   
 <!-- github workflow  -->
-   ![Snake animation](https://github.com/felipefetec/felipefetec/blob/output/github-contribution-grid-snake.svg) 
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipefetec/felipefetec/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipefetec/felipefetec/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 </div>
