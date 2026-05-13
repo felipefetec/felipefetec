@@ -30,10 +30,14 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>  
   <img align="center" alt="Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Python" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+  <img align="center" alt="Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  
   <!-- <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://forums.minecraftforge.net/uploads/monthly_2017_02/o5c6TIN.thumb.gif.267d193520c6b456b361c62a2e66848c.gif?width=676&height=676">
 -->  
 </div>
